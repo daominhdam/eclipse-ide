@@ -19,6 +19,8 @@ public class Topic_05_Lombok {
 
 		// Edit this class on remote repository
 
+		// Edit this class on remote repository second time
+
 	}
 
 
