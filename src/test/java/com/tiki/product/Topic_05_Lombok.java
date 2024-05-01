@@ -17,6 +17,8 @@ public class Topic_05_Lombok {
 		topic05.setFirstName("Automation");
 		topic05.setLastName("FC");
 
+		// Edit this class on remote repository
+
 	}
 
 
